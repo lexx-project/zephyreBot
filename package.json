@@ -1,0 +1,28 @@
+{
+  "name": "zephyre-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot menggunakan @yupra/baileys",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "@yupra/baileys"
+  ],
+  "author": "ZephyreBot",
+  "license": "MIT",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@supabase/supabase-js": "^2.55.0",
+    "@yupra/baileys": "^1.1.1",
+    "bcryptjs": "^3.0.2",
+    "jimp": "^0.16.13",
+    "node-cron": "^4.2.0",
+    "qrcode-terminal": "^0.12.0",
+    "wa-sticker-formatter": "^4.4.4"
+  }
+}

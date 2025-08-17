@@ -1,0 +1,38 @@
+[
+  {
+    "id": "cacing",
+    "name": "Umpan Cacing",
+    "price": 10,
+    "emoji": "🪱"
+  },
+  {
+    "id": "udang",
+    "name": "Umpan Udang",
+    "price": 30,
+    "emoji": "🦐"
+  },
+  {
+    "id": "premium",
+    "name": "Umpan Premium",
+    "price": 100,
+    "emoji": "🌟"
+  },
+  {
+    "id": "pelet",
+    "name": "Umpan Pelet",
+    "price": 15,
+    "emoji": "🟤"
+  },
+  {
+    "id": "lumut",
+    "name": "Umpan Lumut",
+    "price": 20,
+    "emoji": "🌿"
+  },
+  {
+    "id": "legendaris",
+    "name": "Umpan Legendaris",
+    "price": 500,
+    "emoji": "✨"
+  }
+]

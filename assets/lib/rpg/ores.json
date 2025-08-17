@@ -1,0 +1,50 @@
+[
+  {
+    "id": "batu",
+    "name": "Batu",
+    "rarity": "trash",
+    "emoji": "🪨",
+    "min_price": 1,
+    "max_price": 5
+  },
+  {
+    "id": "batubara",
+    "name": "Batubara",
+    "rarity": "common",
+    "emoji": "⚫",
+    "min_price": 10,
+    "max_price": 25
+  },
+  {
+    "id": "tembaga",
+    "name": "Bijih Tembaga",
+    "rarity": "common",
+    "emoji": "🟠",
+    "min_price": 20,
+    "max_price": 40
+  },
+  {
+    "id": "besi",
+    "name": "Bijih Besi",
+    "rarity": "uncommon",
+    "emoji": "⚙️",
+    "min_price": 50,
+    "max_price": 100
+  },
+  {
+    "id": "emas",
+    "name": "Bijih Emas",
+    "rarity": "rare",
+    "emoji": "🟡",
+    "min_price": 200,
+    "max_price": 450
+  },
+  {
+    "id": "berlian",
+    "name": "Berlian",
+    "rarity": "legendary",
+    "emoji": "💎",
+    "min_price": 1000,
+    "max_price": 2500
+  }
+]

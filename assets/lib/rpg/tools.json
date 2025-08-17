@@ -1,0 +1,50 @@
+[
+  {
+    "id": "kayu",
+    "name": "Pancingan Kayu",
+    "type": "fishing_rod",
+    "price": 100,
+    "durability": 50,
+    "emoji": "🎣"
+  },
+  {
+    "id": "besi",
+    "name": "Pancingan Besi",
+    "type": "fishing_rod",
+    "price": 500,
+    "durability": 150,
+    "emoji": "🎣"
+  },
+  {
+    "id": "emas",
+    "name": "Pancingan Emas",
+    "type": "fishing_rod",
+    "price": 2000,
+    "durability": 300,
+    "emoji": "🎣"
+  },
+  {
+    "id": "pickaxe_kayu",
+    "name": "Pickaxe Kayu",
+    "type": "pickaxe",
+    "price": 120,
+    "durability": 50,
+    "emoji": "⛏️"
+  },
+  {
+    "id": "pickaxe_batu",
+    "name": "Pickaxe Batu",
+    "type": "pickaxe",
+    "price": 600,
+    "durability": 150,
+    "emoji": "⛏️"
+  },
+  {
+    "id": "pickaxe_besi",
+    "name": "Pickaxe Besi",
+    "type": "pickaxe",
+    "price": 2500,
+    "durability": 350,
+    "emoji": "⛏️"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  { "id": "lele", "name": "Ikan Lele", "rarity": "common", "min_price": 5, "max_price": 15, "emoji": "🐟" },
+  { "id": "nila", "name": "Ikan Nila", "rarity": "common", "min_price": 7, "max_price": 18, "emoji": "🐠" },
+  { "id": "sepatu", "name": "Sepatu Bot", "rarity": "trash", "min_price": 1, "max_price": 1, "emoji": "👢" },
+  { "id": "plastik", "name": "Sampah Plastik", "rarity": "trash", "min_price": 1, "max_price": 1, "emoji": "🛍️" },
+  { "id": "gurame", "name": "Ikan Gurame", "rarity": "uncommon", "min_price": 20, "max_price": 40, "emoji": "🐡" },
+  { "id": "bawal", "name": "Ikan Bawal", "rarity": "uncommon", "min_price": 25, "max_price": 45, "emoji": "🐠" },
+  { "id": "salmon", "name": "Ikan Salmon", "rarity": "rare", "min_price": 50, "max_price": 100, "emoji": "🍣" },
+  { "id": "tuna", "name": "Ikan Tuna", "rarity": "rare", "min_price": 60, "max_price": 120, "emoji": "🎣" },
+  { "id": "megalodon", "name": "Hiu Megalodon", "rarity": "legendary", "min_price": 500, "max_price": 1000, "emoji": "🦈" }
+]

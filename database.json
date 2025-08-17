@@ -1,0 +1,4760 @@
+{
+  "users": {
+    "62882009391607@s.whatsapp.net": {
+      "balance": 99987511535,
+      "lastDaily": null,
+      "totalEarned": 100129868915,
+      "gamesPlayed": 70,
+      "limit": 999999,
+      "lastLimitReset": "Sun Aug 17 2025",
+      "exp": 438,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {
+          "cacing": 20
+        },
+        "fish": {},
+        "tools": [
+          {
+            "uniqueId": "pickaxe_kayu_1751803887090",
+            "id": "pickaxe_kayu",
+            "durability": 47,
+            "max_durability": 50
+          }
+        ],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": "pickaxe_kayu_1751803887090"
+      },
+      "level": 6
+    },
+    "62882009391607": {
+      "balance": 16,
+      "limit": 999999,
+      "lastLimitReset": "Fri Aug 15 2025",
+      "exp": 85,
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "level": 1
+    },
+    "6288901814610@s.whatsapp.net": {
+      "balance": 50,
+      "lastDaily": null,
+      "totalEarned": 200,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Wed Jul 16 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "lastGcOnlyNotification": 1752617217163,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "120363352141532901@g.us": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Mon Jul 14 2025",
+      "isPremium": false,
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      }
+    },
+    "120363353203624806@g.us": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 48,
+      "lastLimitReset": "Sun Aug 17 2025",
+      "isPremium": false,
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      }
+    },
+    "6282125332524@s.whatsapp.net": {
+      "balance": 18378,
+      "lastDaily": null,
+      "totalEarned": 55555,
+      "gamesPlayed": 14,
+      "exp": 67,
+      "level": 2,
+      "limit": 48,
+      "lastLimitReset": "Thu Jul 03 2025",
+      "isPremium": false
+    },
+    "6285723914198@s.whatsapp.net": {
+      "balance": 3215,
+      "lastDaily": null,
+      "totalEarned": 3215,
+      "gamesPlayed": 3,
+      "exp": 24,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Sat Aug 16 2025",
+      "isPremium": false,
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "lastGcOnlyNotification": 1753453573921
+    },
+    "628971462666@s.whatsapp.net": {
+      "balance": 8522555,
+      "lastDaily": null,
+      "totalEarned": 34114002,
+      "gamesPlayed": 49,
+      "exp": 93,
+      "level": 4,
+      "limit": 49,
+      "lastLimitReset": "Sat Aug 16 2025",
+      "isPremium": false,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "premiumExpiry": null,
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6285852197494@s.whatsapp.net": {
+      "balance": 1693494,
+      "lastDaily": null,
+      "totalEarned": 2024489,
+      "gamesPlayed": 25,
+      "exp": 110,
+      "level": 2,
+      "limit": 50,
+      "lastLimitReset": "Fri Aug 15 2025",
+      "isPremium": false,
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      }
+    },
+    "6285766501625@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Tue Jul 01 2025",
+      "isPremium": false
+    },
+    "6285768210600@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 48,
+      "lastLimitReset": "Thu Jul 03 2025",
+      "isPremium": false
+    },
+    "6285972850611@s.whatsapp.net": {
+      "balance": 1000000,
+      "lastDaily": null,
+      "totalEarned": 1001890,
+      "gamesPlayed": 98,
+      "exp": 137,
+      "level": 5,
+      "limit": 49,
+      "lastLimitReset": "Tue Aug 05 2025",
+      "isPremium": false,
+      "inventory": {
+        "bait": {},
+        "fish": {
+          "plastik": 2,
+          "sepatu": 2
+        },
+        "tools": [
+          {
+            "uniqueId": "pickaxe_kayu_1751847670936",
+            "id": "pickaxe_kayu",
+            "durability": 42,
+            "max_durability": 50
+          },
+          {
+            "uniqueId": "kayu_1751847789472",
+            "id": "kayu",
+            "durability": 50,
+            "max_durability": 50
+          }
+        ],
+        "ores": {
+          "batubara": 1,
+          "batu": 3,
+          "besi": 1
+        }
+      },
+      "equipped": {
+        "fishing_rod": "kayu_1751847789472",
+        "pickaxe": "pickaxe_kayu_1751847670936"
+      },
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      }
+    },
+    "6283862510868@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 49,
+      "lastLimitReset": "Fri Aug 01 2025",
+      "isPremium": false,
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      }
+    },
+    "6282277949599@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Tue Jul 29 2025",
+      "isPremium": false,
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      }
+    },
+    "62895366225604@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 47,
+      "lastLimitReset": "Sun Aug 17 2025",
+      "isPremium": false,
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      }
+    },
+    "6283153239854@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 48,
+      "lastLimitReset": "Sun Aug 17 2025",
+      "isPremium": false,
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      }
+    },
+    "62882005514818@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 11,
+      "lastLimitReset": "Tue Aug 05 2025",
+      "isPremium": false,
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      }
+    },
+    "6288983793919@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Tue Aug 05 2025",
+      "isPremium": false,
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      }
+    },
+    "120363353203624806": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 332,
+      "level": 6,
+      "limit": 50,
+      "lastLimitReset": "Sun Aug 17 2025",
+      "isPremium": false,
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      }
+    },
+    "62895415930022@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 49,
+      "lastLimitReset": "Sat Aug 16 2025",
+      "isPremium": false,
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      }
+    },
+    "6283199443386@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 49,
+      "lastLimitReset": "Sat Aug 16 2025",
+      "isPremium": false,
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      }
+    },
+    "6285945454349@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 40,
+      "lastLimitReset": "Thu Jul 03 2025",
+      "isPremium": false
+    },
+    "6288286448310@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 46,
+      "lastLimitReset": "Sun Aug 17 2025",
+      "isPremium": false,
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      }
+    },
+    "6285712700689@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 46,
+      "lastLimitReset": "Fri Jul 11 2025",
+      "isPremium": false,
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      }
+    },
+    "6282245002149@s.whatsapp.net": {
+      "balance": 1195919,
+      "lastDaily": null,
+      "totalEarned": 2571918,
+      "gamesPlayed": 17,
+      "exp": 53,
+      "level": 2,
+      "limit": 50,
+      "lastLimitReset": "Fri Aug 15 2025",
+      "isPremium": false,
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      }
+    },
+    "6287732001826@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 49,
+      "lastLimitReset": "Sat Aug 02 2025",
+      "isPremium": false,
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      }
+    },
+    "6283182282667@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Wed Jul 23 2025",
+      "isPremium": false,
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      }
+    },
+    "6285224790524@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Tue Aug 05 2025",
+      "isPremium": false,
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      }
+    },
+    "6283871994099@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 49,
+      "lastLimitReset": "Thu Jul 31 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "lastGcOnlyNotification": 1751723209505,
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      }
+    },
+    "6285879769488@s.whatsapp.net": {
+      "balance": 84521,
+      "lastDaily": null,
+      "totalEarned": 171534,
+      "gamesPlayed": 15,
+      "exp": 61,
+      "level": 2,
+      "limit": 48,
+      "lastLimitReset": "Fri Aug 15 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      }
+    },
+    "6281329289051@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 49,
+      "lastLimitReset": "Thu Jul 03 2025",
+      "isPremium": false,
+      "premiumExpiry": null
+    },
+    "6285878702359@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 49,
+      "lastLimitReset": "Tue Aug 05 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "lastGcOnlyNotification": 1751557245386,
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      }
+    },
+    "120363419999722340@g.us": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Mon Jul 07 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "120363419999722340": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 35,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Sun Jul 06 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6281237156287@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Mon Aug 04 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6283171228903@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Wed Jul 23 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6287738715669@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 47,
+      "lastLimitReset": "Sun Aug 17 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6285811666895@s.whatsapp.net": {
+      "balance": 13018,
+      "lastDaily": null,
+      "totalEarned": 1482013,
+      "gamesPlayed": 65,
+      "exp": 89,
+      "level": 5,
+      "limit": 48,
+      "lastLimitReset": "Fri Aug 15 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6282311783667@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 49,
+      "lastLimitReset": "Sat Aug 02 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6283167934473@s.whatsapp.net": {
+      "balance": 1000000,
+      "lastDaily": null,
+      "totalEarned": 1000174,
+      "gamesPlayed": 6,
+      "exp": 70,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Sat Aug 02 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6289637507690@s.whatsapp.net": {
+      "balance": 90,
+      "lastDaily": null,
+      "totalEarned": 90,
+      "gamesPlayed": 5,
+      "exp": 55,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Sun Aug 03 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6283862662362@s.whatsapp.net": {
+      "balance": 1000000,
+      "lastDaily": null,
+      "totalEarned": 1000000,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 47,
+      "lastLimitReset": "Sun Aug 17 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6285743123968@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 48,
+      "lastLimitReset": "Sun Jul 06 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6288224489030@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 49,
+      "lastLimitReset": "Sun Aug 17 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6282119637580@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 49,
+      "lastLimitReset": "Sun Aug 17 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "62895401550691@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 49,
+      "lastLimitReset": "Sun Aug 17 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6285624835447@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 48,
+      "lastLimitReset": "Mon Jul 07 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "628983742226@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Fri Aug 01 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6282333900335@s.whatsapp.net": {
+      "balance": 14654,
+      "lastDaily": null,
+      "totalEarned": 14654,
+      "gamesPlayed": 10,
+      "exp": 8,
+      "level": 2,
+      "limit": 50,
+      "lastLimitReset": "Sat Aug 09 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6287870070813@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Tue Jul 08 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "62895321046023@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Mon Jul 07 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6285607179940@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Sat Aug 02 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6282143830790@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Mon Jul 07 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6282173901203@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 48,
+      "lastLimitReset": "Sun Aug 17 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6285896207510@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Wed Jul 30 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6289696900713@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Sat Aug 02 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6288803229466@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Sat Aug 02 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6285230708019@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Mon Jul 07 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "62895396311571@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Tue Jul 08 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6285246489945@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Mon Aug 04 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6287731995478@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Sun Aug 03 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "62895401175248@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Tue Jul 08 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6287703053686@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Sun Aug 03 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6289693008183@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 49,
+      "lastLimitReset": "Sat Aug 09 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6285210853960@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Fri Aug 01 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6281391027471@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Wed Jul 09 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "lastGcOnlyNotification": 1751956102036
+    },
+    "225906790559969@lid": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Tue Jul 08 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "62895376691111@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Thu Aug 07 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "210028581654621@lid": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Tue Jul 08 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "228475214528707@lid": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Tue Jul 08 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "38827041275929@lid": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Wed Jul 09 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6285147764763@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Thu Jul 10 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6285691177949@s.whatsapp.net": {
+      "balance": 6352,
+      "lastDaily": null,
+      "totalEarned": 7890,
+      "gamesPlayed": 11,
+      "exp": 61,
+      "level": 1,
+      "limit": 47,
+      "lastLimitReset": "Sun Aug 17 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "628385931937@s.whatsapp.net": {
+      "balance": 992,
+      "lastDaily": null,
+      "totalEarned": 992,
+      "gamesPlayed": 1,
+      "exp": 30,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Fri Aug 15 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6289518048010@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Sat Aug 16 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "62895393488333@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 49,
+      "lastLimitReset": "Fri Jul 18 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6285138359546@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Fri Aug 01 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6282162717545@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 36,
+      "lastLimitReset": "Fri Aug 15 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "62881027347738@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Sat Aug 09 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6282131875067@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Fri Jul 25 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6285860917886@s.whatsapp.net": {
+      "balance": 910000,
+      "lastDaily": null,
+      "totalEarned": 1171146,
+      "gamesPlayed": 60,
+      "exp": 137,
+      "level": 3,
+      "limit": 50,
+      "lastLimitReset": "Mon Jul 28 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [
+          {
+            "uniqueId": "pickaxe_besi_1752495479207",
+            "id": "pickaxe_besi",
+            "durability": 335,
+            "max_durability": 350
+          }
+        ],
+        "ores": {
+          "batubara": 2
+        }
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": "pickaxe_besi_1752495479207"
+      }
+    },
+    "6283871167051@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 48,
+      "lastLimitReset": "Sun Aug 17 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6288287873576@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 49,
+      "lastLimitReset": "Sun Aug 17 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "lastGcOnlyNotification": 1753456595602
+    },
+    "6282324083097@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Sat Aug 02 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "lastGcOnlyNotification": 1754116729542
+    },
+    "62881036635219@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Fri Jul 11 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6285655866765@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Wed Jul 16 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6287819531204@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Sun Jul 27 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6283876697419@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Mon Jul 14 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "lastGcOnlyNotification": 1752243937255
+    },
+    "6282337151688@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Sun Aug 03 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6283157614805@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Fri Jul 11 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6289504771554@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Sun Jul 20 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6285857305138@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Mon Jul 14 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6288973279871@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Mon Jul 14 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6283140162853@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Mon Jul 14 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "62881027704319@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Sun Aug 03 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "62882003661441@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 49,
+      "lastLimitReset": "Mon Jul 14 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6285727590913@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Sat Jul 19 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "lastGcOnlyNotification": 1752506698215
+    },
+    "6283111584068@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 49,
+      "lastLimitReset": "Tue Jul 22 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6285340504104@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 49,
+      "lastLimitReset": "Mon Jul 14 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "628818375069@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Mon Jul 14 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6289669720298@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Mon Jul 14 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6287758992618@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Mon Aug 04 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6289505440168@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 46,
+      "lastLimitReset": "Thu Aug 07 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6285656844562@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Mon Jul 14 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6283832168072@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Tue Jul 15 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6287757646288@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Wed Jul 16 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "lastGcOnlyNotification": 1752567810497
+    },
+    "6285927455668@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Tue Jul 15 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6281271240640@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 49,
+      "lastLimitReset": "Thu Jul 17 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6285640594329@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 1,
+      "exp": 0,
+      "level": 1,
+      "limit": 34,
+      "lastLimitReset": "Fri Aug 15 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "62887437084600@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Fri Aug 01 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6285215650298@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Thu Jul 24 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "lastGcOnlyNotification": 1753264170377
+    },
+    "6285194616009@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 48,
+      "lastLimitReset": "Sun Jul 20 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6283814942689@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 49,
+      "lastLimitReset": "Sun Jul 20 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6283871770229@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 49,
+      "lastLimitReset": "Sun Aug 03 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "62895391973651@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Mon Aug 11 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "lastGcOnlyNotification": 1753030938937
+    },
+    "6282337162224@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Sun Aug 03 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "62881026665240@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 41,
+      "lastLimitReset": "Tue Jul 29 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6285783803024@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Tue Jul 22 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6285180785082@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Tue Jul 22 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6281248591581@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Tue Jul 22 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6289525950732@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 48,
+      "lastLimitReset": "Sat Aug 02 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "lastGcOnlyNotification": 1753273502597
+    },
+    "6285376830187@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 47,
+      "lastLimitReset": "Wed Jul 23 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6283826713420@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Thu Jul 24 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6282110132182@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Fri Jul 25 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6281244377745@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Sat Aug 09 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6289523866996@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 48,
+      "lastLimitReset": "Sun Aug 17 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6282117231592@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Sat Aug 09 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6288291046974@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 49,
+      "lastLimitReset": "Sat Aug 16 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6288905513741@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Sun Jul 27 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6282223176472@s.whatsapp.net": {
+      "balance": 470135,
+      "lastDaily": null,
+      "totalEarned": 564900,
+      "gamesPlayed": 11,
+      "exp": 85,
+      "level": 1,
+      "limit": 48,
+      "lastLimitReset": "Sat Aug 16 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "62895617468107@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 49,
+      "lastLimitReset": "Mon Aug 04 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "83009336250405@lid": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 49,
+      "lastLimitReset": "Sun Aug 17 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "114825984221331@lid": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Sat Aug 09 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6287841161969@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 47,
+      "lastLimitReset": "Sat Aug 02 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "628118814017@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Fri Aug 01 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6283833280106@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Sat Aug 02 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6287793478141@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 49,
+      "lastLimitReset": "Fri Aug 15 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "lastGcOnlyNotification": 1754913123678
+    },
+    "6283197485737@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 48,
+      "lastLimitReset": "Tue Aug 05 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6283121328544@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Sun Aug 03 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6287874994084@s.whatsapp.net": {
+      "balance": 548900,
+      "lastDaily": null,
+      "totalEarned": 550000,
+      "gamesPlayed": 2,
+      "exp": 10,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Mon Aug 11 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6285647663093@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Sat Aug 09 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "lastGcOnlyNotification": 1754724357753
+    },
+    "6283194105884@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Mon Aug 04 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "lastGcOnlyNotification": 1754304126862
+    },
+    "6282250449579@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Mon Aug 04 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "97771054964879@lid": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 49,
+      "lastLimitReset": "Wed Aug 06 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "235592411574454@lid": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 49,
+      "lastLimitReset": "Wed Aug 06 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "262929844830232@lid": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 48,
+      "lastLimitReset": "Wed Aug 06 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "27492740034725@lid": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 49,
+      "lastLimitReset": "Wed Aug 06 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "42825840386106@lid": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 47,
+      "lastLimitReset": "Wed Aug 06 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "114233765310479@lid": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 48,
+      "lastLimitReset": "Wed Aug 06 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "271700168024111@lid": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 47,
+      "lastLimitReset": "Wed Aug 06 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "197890634961043@lid": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 48,
+      "lastLimitReset": "Wed Aug 06 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "229411534201082@lid": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 49,
+      "lastLimitReset": "Wed Aug 06 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "56337539023101@lid": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 49,
+      "lastLimitReset": "Wed Aug 06 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "160649560731784@lid": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 45,
+      "lastLimitReset": "Wed Aug 06 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "116402203656383@lid": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Wed Aug 06 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "59640335323198@lid": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 48,
+      "lastLimitReset": "Wed Aug 06 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "63084563575022@lid": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 49,
+      "lastLimitReset": "Wed Aug 06 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "2199660826708@lid": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 49,
+      "lastLimitReset": "Wed Aug 06 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "267108663435348@lid": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 49,
+      "lastLimitReset": "Wed Aug 06 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "120363419366100784@g.us": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 49,
+      "lastLimitReset": "Wed Aug 06 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "status@broadcast": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Sun Aug 17 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "628311820843@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 49,
+      "lastLimitReset": "Thu Aug 07 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6283834222113@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 47,
+      "lastLimitReset": "Thu Aug 07 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "122304176591091@lid": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Thu Aug 07 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6285187052931@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Thu Aug 07 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6283178690746@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Fri Aug 08 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "lastGcOnlyNotification": 1754632211039
+    },
+    "6285220389694@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Sun Aug 17 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6283193006730@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Sat Aug 09 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      },
+      "lastGcOnlyNotification": 1754724447219
+    },
+    "174848538075147@lid": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Fri Aug 15 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "274470438752479@lid": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Fri Aug 15 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "186470686011431@lid": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Mon Aug 11 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "130674698780748@lid": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Mon Aug 11 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6285712146332@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 48,
+      "lastLimitReset": "Fri Aug 15 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "62895339569487@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Fri Aug 15 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "6287771816772@s.whatsapp.net": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Fri Aug 15 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "41494232699094@lid": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Sun Aug 17 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    },
+    "132057963446430@lid": {
+      "balance": 0,
+      "lastDaily": null,
+      "totalEarned": 0,
+      "gamesPlayed": 0,
+      "exp": 0,
+      "level": 1,
+      "limit": 50,
+      "lastLimitReset": "Sun Aug 17 2025",
+      "isPremium": false,
+      "premiumExpiry": null,
+      "banned": {
+        "status": false,
+        "reason": null,
+        "expiry": null
+      },
+      "inventory": {
+        "bait": {},
+        "fish": {},
+        "tools": [],
+        "ores": {}
+      },
+      "equipped": {
+        "fishing_rod": null,
+        "pickaxe": null
+      }
+    }
+  },
+  "settings": {
+    "family100_reward": 15,
+    "daily_limit": 10000,
+    "default_balance": 0,
+    "exp_rewards": {
+      "family100": 15,
+      "kuis": 10,
+      "tebakgambar": 12,
+      "susunkata": 8,
+      "tebakbendera": 10
+    },
+    "gcOnly": true
+  },
+  "groups": {
+    "120363419366100784@g.us": {
+      "jadwalsholat": {
+        "enabled": true,
+        "city": "Jakarta"
+      }
+    },
+    "120363353203624806@g.us": {
+      "jadwalsholat": {
+        "enabled": true,
+        "city": "Jakarta"
+      }
+    }
+  }
+}
